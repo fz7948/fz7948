@@ -1,6 +1,6 @@
 ## Tech Stack 🛠
 
-**Languages**   Javascript(ES6+), HTML, CSS
+**Languages**   Javascript(ES6+),Typescript, HTML, CSS
 
 **Front-End**   React(hooks), Redux, styled-components
 
