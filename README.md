@@ -1,9 +1,40 @@
 ## Tech Stack 🛠
 
-**Languages**   Javascript(ES6+), Typescript, HTML, CSS
+**[Languages]**   
+<p>
+  <a href="https://github.com/fz7948">
+  <img src="https://img.shields.io/badge/JavaScript(ES6+)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fz7948">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fz7948">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fz7948">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  </a>
+</p>
 
-**Front-End**   React(hooks), Redux, styled-components
+**[Front-End]**  
+<P>
+  <img src="https://img.shields.io/badge/React(hooks)-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</P>
 
-**Back-End**   Node.js, Express, MySQL, Sequeilize
 
-**Others**   AWS(EC2, S3, RDS), Git, Postman
+**[Back-End]**   
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-EF4678?style=flat-square&logo=vFairs&logoColor=white"/>
+</P>
+
+**[Others]**   
+<p>
+  <img src="https://img.shields.io/badge/AWS(EC2, S3, RDS)-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+</P>
