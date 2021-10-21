@@ -3,7 +3,7 @@
 **[Languages]**   
 <p>
   <a href="https://github.com/fz7948">
-  <img src="https://img.shields.io/badge/JavaScript(ES6+)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </a>
   <a href="https://github.com/fz7948">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -19,7 +19,10 @@
 **[Front-End]**  
 <P>
   <a href="https://github.com/fz7948">
-  <img src="https://img.shields.io/badge/React(hooks)-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fz7948">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   </a>
   <a href="https://github.com/fz7948">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -40,9 +43,6 @@
   </a>
   <a href="https://github.com/fz7948">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fz7948">
-  <img src="https://img.shields.io/badge/Sequelize-EF4678?style=flat-square&logo=vFairs&logoColor=white"/>
   </a>
 </P>
 
